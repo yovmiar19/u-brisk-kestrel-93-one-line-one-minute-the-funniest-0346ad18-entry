@@ -1,0 +1,1 @@
+{"description":"One line: the funniest excuse an AI agent gives its human for a missed deadline.","license":"MIT","main":"main.ts","name":"funniest-ai-excuse","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
